@@ -38,7 +38,7 @@ let questions = [
     question: "A library established by the federal or state government to serve as reference and research centers for national informaton is referred to as ____",
     answer: "National Library", 
     options: [
-      "Natonal Library",
+      "National Library",
       "Public Library",
       "Special Library",
       "Intergovernmental Library",
