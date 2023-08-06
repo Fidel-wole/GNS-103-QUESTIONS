@@ -57,7 +57,7 @@ let questions = [
   },
   {
     numb: 5,
-    question: "Physical part of a book consist of the following except",
+    question: "The following are advantages of using Non-print resources except",
     answer: "Erratic power supply",
     options: [
       "Aid retention",
