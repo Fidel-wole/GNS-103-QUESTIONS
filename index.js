@@ -343,7 +343,7 @@ let questions = [
 },
 {
   numb: 31,
-  question: 'FUTA consist of how many floors?',
+  question: 'FUTA library consist of how many floors?',
   answer: "3 floors",
   options: [
     "2 floors",
