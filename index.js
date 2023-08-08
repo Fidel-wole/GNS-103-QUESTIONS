@@ -366,7 +366,7 @@ let questions = [
 {
   numb: 33,
   question:'Which of the following services is not normally offered by University library?',
-  answer: "Photocopying",
+  answer: "Bindery",
   options: [
     "Extension service",
     "ICT services",
