@@ -322,7 +322,7 @@ let questions = [
 {
   numb: 29,
   question: 'Authors of books are legally bound to deposit a number of copies of their publication to the ______',
-  answer: "public library",
+  answer: "national library",
   options: [
     "state library",
     "public library",
