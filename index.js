@@ -289,7 +289,7 @@ let questions = [
 {
   numb: 26,
   question: 'The course GNS 103 is an example of _____',
-  answer: "knowledge management",
+  answer: "user education",
   options: [
     "how to speak english properly",
     "knowledge management",
